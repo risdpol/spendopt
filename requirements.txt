@@ -1,0 +1,9 @@
+openai
+pandas 
+numpy 
+langgraph 
+groq 
+openpyxl
+pulp
+scikit-learn
+streamlit
